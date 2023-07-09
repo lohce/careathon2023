@@ -40,8 +40,8 @@ Here are the input voice query
 
 | Query | Voice file |
 | --------- | --------- |
-| "Is there a bus departure from Douala to Yaounde tomorrow ?" | [english](song/query_voice_en.ogg)  |
-| "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | [french](song/query_voice_fr.ogg) |
+| "Is there a bus departure from Douala to Yaounde tomorrow ?" | ![download](song/query_voice_en.ogg)  |
+| "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | ![download](song/query_voice_fr.ogg) |
 
 
 ## Topic of the competition
