@@ -36,7 +36,7 @@ Here is the competition timeline
 ### delivery details 
 
 - The competition is virtual, thus You can code from anywhere You want.
-- You can use whateven language to write Your code, just make sure to properly document how the judges will proceed to test it properly
+- You can use whatever language to write Your code, just make sure to properly document how the judges will proceed to test it properly
 - Your code will be publish as an opensource project on a git repository on github
 - You must provide a proper documentation on how to install and test Your code
 
@@ -47,9 +47,9 @@ Your code will be rate over 100 on each of the above category
 
 | Judge | Evaluation category | details |
 | --------- | --------- | --------- |
-| LOHCE | Fonctionnality | Is Your code properly display the result from LOHCE API on the two input file |
+| LOHCE | Fonctionnality | Does your code properly displays the result from LOHCE API on the two input file |
 | OSS Cameroun | Code accessibility | How easy is it to install and test Your code |
-| Users | Robustness | Is Your code working on the same query input but from Yaoundé to Douala and with a different voice (Yours and a random people one) |
+| Users | Robustness | Does your code works on the same query input but from Yaoundé to Douala and with a different voice (Yours and a random people's one) |
 
 
 ### The competition topic
@@ -60,7 +60,7 @@ The topic of the competition is to develop a query extration from a voice file a
 
 #### Step 1
 
-Your code get the voice file as an input. Your code will be test on the voice file below as input
+Your code get the voice file as an input. Your code will be tested with each voice files below as input
 
 | Query | Voice file |
 | --------- | --------- |
@@ -80,7 +80,7 @@ Your code use a voice recognition technique (anyone) to extract the query and fo
 
 #### Step 3
 
-Your code build an POST Request to LOHCE API at `https://lohce.com/apiusers/gettravels` to get the result of the query formulate in the query.
+Your code build a POST Request to LOHCE API at `https://lohce.com/apiusers/gettravels` to get the result of the query formulated in the query.
 
 Here is a Javascript example of an API LOHCE request using jquery.
 
