@@ -2,7 +2,9 @@
 
 ## Topic of the competition
 
-The topic of the competition is to develop a query extration from a voice file and generate an API REQUEST to www.lohce.com API
+The topic of the competition is to develop a query extration from a voice file and generate an API REQUEST to www.lohce.com API.
+
+![Architecture of the overall program](images/careathon.png)
 
 ## List of Team contestant
 
