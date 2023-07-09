@@ -26,8 +26,10 @@ Here is the competition timeline
 
 | Timeline | detail |
 | --------- | --------- |
+| 07th, July 2023 | registration start |
+| 08th, July 2023 | registration end |
 | 09th, July 2023 | Competition start, contestant received all instructions |
-| 12th, July 2023 | Competition end, contestants provide links to their code on opensource repository |
+| 12th, July 2023, mid-night | Competition end, contestants provide links to their code on opensource repository |
 | 13th, July 2023 | judges start evaluating contestant works |
 | 15th, July 2023 | The winner is reveal during the Customer Care Day event |
 
