@@ -1,4 +1,24 @@
-# careathon2023
+# Careathon 2023
+
+Careathon 2023 is the first virtual Competition organize by [LOHCE](https://www.lohce.com) during the Customer Care Day 2023, which will be held the 15th July, 2023. 
+
+At [LOHCE](https://www.lohce.com) our priority is to make it even easier for your fellow Cameroonians to buy bus tickets online in order to reduce stress when preparing for the trip.
+
+It is on this occasion that we want to reward Care Developers, i.e. people who deeply care about helping the users of what the build.
+
+![Architecture of the overall program](images/large-logo.jpeg)
+
+Here is the List of contestant for this first edition
+
+| Team name | Leader | Team Members | Location |
+| --------- | --------- | --------- | --------- |
+| Expo | Leonel NGOYA | 1 | Yaoundé |
+| Infinite Plus One | Djoufson CHE BENE | 2 | Douala |
+| Bukela | Aser Dipanda | 1 | Douala |
+| Resilience des vainqueurs |  Daniel Yvan WELLE PACK  | 3 | Douala |
+| FodyDev |   Fomegne Brady  | 1 | Buea |
+
+The winner of the Careathon will receive a cash prize of 25 000 FCFA and the prestigious title of the "Best Cameroonian Care developer".
 
 ## Topic of the competition
 
@@ -368,13 +388,3 @@ Here is an example of LOHCE API response to the query.
     ]
 }
 ```
-
-## List of Team contestant
-
-| Team name | Leader | Team Members | Location |
-| --------- | --------- | --------- | --------- |
-| Expo | Leonel NGOYA | 1 | Yaoundé |
-| Infinite Plus One | Djoufson CHE BENE | 2 | Douala |
-| Bukela | Aser Dipanda | 1 | Douala |
-| Resilience des vainqueurs |  Daniel Yvan WELLE PACK  | 3 | Douala |
-| FodyDev |   Fomegne Brady  | 1 | Buea |
