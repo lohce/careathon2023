@@ -31,8 +31,8 @@ The winner of the Careathon will receive a cash prize of 25 000 FCFA and the pre
 
 | Query | Voice file |
 | --------- | --------- |
-| "Is there a bus departure from Douala to Yaounde tomorrow ?" | ![download](https://drive.google.com/file/d/11sjEjiqSx16k2WUJyA3HRprOuVY7UCMN/view?usp=sharing)  |
-| "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | ![download](song/query_voice_fr.ogg) |
+| "Is there a bus departure from Douala to Yaounde tomorrow ?" | [download](https://drive.google.com/file/d/11sjEjiqSx16k2WUJyA3HRprOuVY7UCMN/view?usp=sharing)  |
+| "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | [download](https://drive.google.com/file/d/1Mc8bYDyi-rtIgOOS8ROGj-UuSek1PDht/view?usp=sharing) |
 
 
 ### the winner details 
