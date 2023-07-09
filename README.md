@@ -22,8 +22,18 @@ The winner of the Careathon will receive a cash prize of 25 000 FCFA and the pre
 
 ## Competition details
 
+Here is the competition timeline
+
+| Timeline | detail |
+| --------- | --------- |
+| 09th, July 2023 | Competition start, contestant received all instructions |
+| 12th, July 2023 | Competition end, contestants provide links to their code on opensource repository |
+| 13th, July 2023 | judges start evaluating contestant works |
+| 15th, July 2023 | The winner is reveal during the Customer Care Day event |
+
 ### delivery details 
 
+- The competition is virtual, thus You can code from anywhere You want.
 - You can use whateven language to write Your code, just make sure to properly document how the judges will proceed to test it properly
 - Your code will be publish as an opensource project on a git repository on github
 - You must provide a proper documentation on how to install and test Your code
