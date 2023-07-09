@@ -8,7 +8,7 @@ It is on this occasion that we want to reward Care Developers, i.e. people who d
 
 ![Architecture of the overall program](images/large-logo.jpeg)
 
-Here is the List of contestant for this first edition
+Here is the List of cthe ontestants for this first edition.
 
 | Team name | Leader | Team Members | Location |
 | --------- | --------- | --------- | --------- |
@@ -20,23 +20,14 @@ Here is the List of contestant for this first edition
 
 The winner of the Careathon will receive a cash prize of 25 000 FCFA and the prestigious title of the "Best Cameroonian Care developer".
 
-The winner will be the contestant with the highest score on 3 evaluation category: `functionality`, `robustness` and `code accessibility`.
-Your code will be rate over 100 on each of the above category 
-
 ## Competition details
 
-- Your code will be publish as an opensource proget on a git repository
-- You must provide a documentation on how to install and test Your code4
-- Your code will be test using voices file provide below
-- Your code will be test on 3 ways: 
+### delivery details 
 
-| Judge | Evaluation category | details |
-| --------- | --------- | --------- |
-| LOHCE | Fonctionnality | Is Your code properly display the result from LOHCE API on the two input file |
-| OSS Cameroun | Code accessibility | How easy is it to install and test Your code |
-| Users | Robustness | Is Your code working on the same query input but from Yaoundé to Douala and with a different voice (Yours and a random people one) |
-
-Here are the input voice query
+- You can use whateven language to write Your code, just make sure to properly document how the judges will proceed to test it properly
+- Your code will be publish as an opensource project on a git repository on github
+- You must provide a proper documentation on how to install and test Your code
+- Your code will be test on the voice file below as input
 
 | Query | Voice file |
 | --------- | --------- |
@@ -44,17 +35,29 @@ Here are the input voice query
 | "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | ![download](song/query_voice_fr.ogg) |
 
 
-## Topic of the competition
+### the winner details 
+
+The winner will be the contestant with the highest score on 3 evaluation categories: `functionality`, `robustness` and `code accessibility`.
+Your code will be rate over 100 on each of the above category 
+
+| Judge | Evaluation category | details |
+| --------- | --------- | --------- |
+| LOHCE | Fonctionnality | Is Your code properly display the result from LOHCE API on the two input file |
+| OSS Cameroun | Code accessibility | How easy is it to install and test Your code |
+| Users | Robustness | Is Your code working on the same query input but from Yaoundé to Douala and with a different voice (Yours and a random people one) |
+
+
+### The competition topic
 
 The topic of the competition is to develop a query extration from a voice file and generate an API REQUEST to www.lohce.com API.
 
 ![Architecture of the overall program](images/careathon.png)
 
-### Step 1
+#### Step 1
 
 Your code get the voice file as an input, here are links to two files that You will use as input to test and develope Your code.
 
-### Step 2
+#### Step 2
 
 Your code use a voice recognition technique (anyone) to extract the query and formulate a query to be send to LOHCE API
 
@@ -64,11 +67,12 @@ Your code use a voice recognition technique (anyone) to extract the query and fo
     var date        = "10-07-2023";
 ```
 
-### Step 3
+#### Step 3
 
 Your code build an POST Request to LOHCE API at `https://lohce.com/apiusers/gettravels` to get the result of the query formulate in the query.
 
 Here is a Javascript example of an API LOHCE request using jquery.
+
 
 ```javascript
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"> </script>   
@@ -103,6 +107,17 @@ Here is a Javascript example of an API LOHCE request using jquery.
     });
 </script>    
 ```
+
+> **_NOTE:_**  The note content.
+
+| variables | detail |
+| -------- | -------- |
+| `api_key` | the API Key which authenticate You query call. It is *mandatory*. Its value must be `rh8b2v4tLJ2avDBZ` in Your code |
+| `departure` | the departure city. Its value can be `yaounde` or `douala` depending on what You found in the voice input |
+| `arrival` | the arrival city. Its value can be `yaounde` or `douala` depending on what You found in the voice input |
+| `date` | the date of the travels requestion. Its value must be in the `dd-mm-YYYY` format in Your code |
+| `language` | the language of the query. Its value must either `fr` or `en` |
+| `hash` | this is a `md5` hash of all Your parameters. Its value must be `md5(api_key+departure+arrival+date+language+version)` in Your code |
 
 ### Step 4 Getting result from LOHCE API
 
