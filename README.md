@@ -8,7 +8,7 @@ It is on this occasion that we want to reward Caring Developers, i.e. IT develop
 
 ![Architecture of the overall program](images/large-logo.jpeg)
 
-Here is the List of cthe ontestants for this first edition.
+Here is the List of the ontestants for this first edition.
 
 | Team name | Leader | Team Members | Location |
 | --------- | --------- | --------- | --------- |
