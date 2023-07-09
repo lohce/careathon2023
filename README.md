@@ -20,6 +20,30 @@ Here is the List of contestant for this first edition
 
 The winner of the Careathon will receive a cash prize of 25 000 FCFA and the prestigious title of the "Best Cameroonian Care developer".
 
+The winner will be the contestant with the highest score on 3 evaluation category: `functionality`, `robustness` and `code accessibility`.
+Your code will be rate over 100 on each of the above category 
+
+## Competition details
+
+- Your code will be publish as an opensource proget on a git repository
+- You must provide a documentation on how to install and test Your code4
+- Your code will be test using voices file provide below
+- Your code will be test on 3 ways: 
+
+| Judge | Evaluation category | details |
+| --------- | --------- | --------- |
+| LOHCE | Fonctionnality | Is Your code properly display the result from LOHCE API on the two input file |
+| OSS Cameroun | Code accessibility | How easy is it to install and test Your code |
+| Users | Robustness | Is Your code working on the same query input but from Yaoundé to Douala and with a different voice (Yours and a random people one) |
+
+Here are the input voice query
+
+| Query | Voice file |
+| --------- | --------- |
+| "Is there a bus departure from Douala to Yaounde tomorrow ?" | [english](song/query_voice_en.ogg)  |
+| "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | [french](song/query_voice_fr.ogg) |
+
+
 ## Topic of the competition
 
 The topic of the competition is to develop a query extration from a voice file and generate an API REQUEST to www.lohce.com API.
@@ -29,8 +53,6 @@ The topic of the competition is to develop a query extration from a voice file a
 ### Step 1
 
 Your code get the voice file as an input, here are links to two files that You will use as input to test and develope Your code.
-
-
 
 ### Step 2
 
@@ -42,7 +64,7 @@ Your code use a voice recognition technique (anyone) to extract the query and fo
     var date        = "10-07-2023";
 ```
 
-### Step 3 POST request to LOHCE API
+### Step 3
 
 Your code build an POST Request to LOHCE API at `https://lohce.com/apiusers/gettravels` to get the result of the query formulate in the query.
 
