@@ -39,13 +39,6 @@ Here is the competition timeline
 - You can use whateven language to write Your code, just make sure to properly document how the judges will proceed to test it properly
 - Your code will be publish as an opensource project on a git repository on github
 - You must provide a proper documentation on how to install and test Your code
-- Your code will be test on the voice file below as input
-
-| Query | Voice file |
-| --------- | --------- |
-| "Is there a bus departure from Douala to Yaounde tomorrow ?" | [download](https://drive.google.com/file/d/11sjEjiqSx16k2WUJyA3HRprOuVY7UCMN/view?usp=sharing)  |
-| "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | [download](https://drive.google.com/file/d/1Mc8bYDyi-rtIgOOS8ROGj-UuSek1PDht/view?usp=sharing) |
-
 
 ### the winner details 
 
@@ -67,7 +60,13 @@ The topic of the competition is to develop a query extration from a voice file a
 
 #### Step 1
 
-Your code get the voice file as an input, here are links to two files that You will use as input to test and develope Your code.
+Your code get the voice file as an input. Your code will be test on the voice file below as input
+
+| Query | Voice file |
+| --------- | --------- |
+| "Is there a bus departure from Douala to Yaounde tomorrow ?" | [download](https://drive.google.com/file/d/11sjEjiqSx16k2WUJyA3HRprOuVY7UCMN/view?usp=sharing)  |
+| "Y a-t-il un départ de bus de Douala à Yaoundé demain ?" | [download](https://drive.google.com/file/d/1Mc8bYDyi-rtIgOOS8ROGj-UuSek1PDht/view?usp=sharing) |
+
 
 #### Step 2
 
