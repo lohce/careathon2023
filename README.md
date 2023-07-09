@@ -13,7 +13,7 @@ Here is the List of the ontestants for this first edition.
 | Team name | Leader | Team Members | Location |
 | --------- | --------- | --------- | --------- |
 | Expo | [Leonel NGOYA](https://www.lndev.me/) | 1 | Yaoundé |
-| Infinite Plus One | Djoufson CHE BENE | 2 | Douala |
+| Infinite Plus One | [Djoufson CHE BENE](https://twitter.com/djouf_legran) | 2 | Douala |
 | Bukela | Aser Dipanda | 1 | Douala |
 | Resilience des vainqueurs |  Daniel Yvan WELLE PACK  | 3 | Douala |
 | FodyDev |   Fomegne Brady  | 1 | Buea |
