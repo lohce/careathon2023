@@ -1,10 +1,10 @@
 # Careathon 2023
 
-Careathon 2023 is the first virtual Competition organize by [LOHCE](https://www.lohce.com) during the Customer Care Day 2023, which will be held the 15th July, 2023. 
+Careathon 2023 is the first virtual Competition organize by [LOHCE](https://www.lohce.com) during the Customer Care Day 2023, which will be held on the 15th July, 2023. 
 
-At [LOHCE](https://www.lohce.com) our priority is to make it even easier for your fellow Cameroonians to buy bus tickets online in order to reduce stress when preparing for the trip.
+At [LOHCE](https://www.lohce.com) our priority is to make it even easier for your fellow Cameroonians to buy bus tickets online in order to reduce stress when preparing for a bus trip.
 
-It is on this occasion that we want to reward Care Developers, i.e. people who deeply care about helping the users of what the build.
+It is on this occasion that we want to reward Caring Developers, i.e. IT developers who deeply care about helping the users of what they build.
 
 ![Architecture of the overall program](images/large-logo.jpeg)
 
