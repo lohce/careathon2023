@@ -119,17 +119,17 @@ Here is a Javascript example of an API LOHCE request using jquery.
 </script>    
 ```
 
-> **_NOTE:_**  The note content.
-
-| variables | detail |
-| -------- | -------- |
-| `api_key` | the API Key which authenticate You query call. It is *mandatory*. Its value must be `rh8b2v4tLJ2avDBZ` in Your code |
-| `departure` | the departure city. Its value can be `yaounde` or `douala` depending on what You found in the voice input |
-| `arrival` | the arrival city. Its value can be `yaounde` or `douala` depending on what You found in the voice input |
-| `date` | the date of the travels requestion. Its value must be in the `dd-mm-YYYY` format in Your code |
-| `language` | the language of the query. Its value must either `fr` or `en` |
-| `version` | the version of the LOHCE API requested. Its value must either `1.0` |
-| `hash` | this is a `md5` hash of all Your parameters. Its value must be `md5(api_key+departure+arrival+date+language+version)` in Your code |
+> **_NOTE:_**  Please consider the following constraint on the variable of the API Request
+>
+>| variables | detail |
+>| -------- | -------- |
+>| `api_key` | the API Key which authenticate You query call. It is *mandatory*. Its value must be `rh8b2v4tLJ2avDBZ` in Your code |
+>| `departure` | the departure city. Its value can be `yaounde` or `douala` depending on what You found in the voice input |
+>| `arrival` | the arrival city. Its value can be `yaounde` or `douala` depending on what You found in the voice input |
+>| `date` | the date of the travels requestion. Its value must be in the `dd-mm-YYYY` format in Your code |
+>| `language` | the language of the query. Its value must either `fr` or `en` |
+>| `version` | the version of the LOHCE API requested. Its value must either `1.0` |
+>| `hash` | this is a `md5` hash of all Your parameters. Its value must be `md5(api_key+departure+arrival+date+language+version)` in Your code |
 
 ### Step 4 Getting result from LOHCE API
 
