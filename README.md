@@ -12,10 +12,10 @@ Here is the List of the ontestants for this first edition.
 
 | Team name | Leader | Team Members | Location |
 | --------- | --------- | --------- | --------- |
-| Expo | [Leonel NGOYA](https://www.lndev.me/) | 1 | Yaoundé |
+| Expo | [Leonel NGOYA](https://twitter.com/ln_dev7) | 1 | Yaoundé |
 | Infinite Plus One | [Djoufson CHE BENE](https://twitter.com/djouf_legran) | 2 | Douala |
-| Bukela | Aser Dipanda | 1 | Douala |
-| Resilience des vainqueurs |  Daniel Yvan WELLE PACK  | 3 | Douala |
+| Bukela | [Aser Dipanda](https://twitter.com/iamdipanda) | 1 | Douala |
+| Resilience des vainqueurs |  [Daniel Yvan WELLE PACK](https://twitter.com/wellepack)  | 3 | Douala |
 | FodyDev |   Fomegne Brady  | 1 | Buea |
 
 The winner of the Careathon will receive a cash prize of 25 000 FCFA and the prestigious title of the "Best Cameroonian Care developer".
